@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-image: url("https://i.pinimg.com/originals/4d/05/a2/4d05a206e8408959a86abf995b7e8743.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    text-align: center;
+    color: khaki;
+}
+
+#contact-div{
+    width: 50%;
+    /* background-color: blue; */
+    margin: auto;
+    margin-top: 8%;
+    display: flex;
+}
+
+#text-div h4{
+    color: #fff;
+}
+
+.user-input{
+    color: rgb(218, 62, 218);
+    display: flex;
+    /* width: 35%; */
+    margin-top: 4%;
+}

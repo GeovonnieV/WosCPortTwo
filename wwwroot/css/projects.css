@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-image: url("https://astroworldmerch.net/wp-content/uploads/2019/09/43344951_356641195085681_2595578777312462270_n.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    text-align: center;
+    color: khaki;
+    margin-top: 8%;
+}
+
+#projects-div{
+    /* background-color: blue; */
+    width: 20%;
+    margin: auto;
+}
+
+#row{
+    display: flex;
+    margin-top: 5%;
+    /* background-color: red; */
+    justify-content: space-between;
+    color: #fff;
+    align-items: center;
+}
+
+.albumn-pic{
+    width: 50%;
+    border-radius: 50%;
+    border: 1px #fff solid;
+}
+

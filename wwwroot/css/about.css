@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    background-image: url("https://3q87le1gsko01ibim33e4wib-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/experience_Astroworld2019_KirbyGladstein-01870.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+#about-container{
+    /* background-color: blue; */
+    margin: auto;
+    margin-top: 4%;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#about-pic-div{
+    /* background-color: blue; */
+    text-align: center;
+    width: 50%;
+}
+#about-pic-div h4{
+   color: khaki;
+}
+
+#about-pic{
+    /* width: 30%; */
+    height: 60vh;
+    border-radius: 50px;
+    border: 2px plum solid;
+}
+
+#about-text{
+    /* background-color: blue; */
+    width: 40%;
+    font-size: 1.5em;
+    color: plum;
+}
+
+#about-head{
+    text-align: center;
+    color: khaki;
+}
